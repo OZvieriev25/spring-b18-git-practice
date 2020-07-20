@@ -7,3 +7,5 @@ pink
 orange
 ###brown
 purple
+white
+gray
